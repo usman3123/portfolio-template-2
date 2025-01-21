@@ -85,7 +85,6 @@ body {
     color: rgb(212, 197, 197);
     gap: 10px;
     color: #505f79;
-    font-size: 5rem;
 
 }
 
@@ -305,14 +304,10 @@ h2::before {
 .input {
     line-height: 48px;
     width: 50%;
-    padding: 15px;
-    font-size: 4rem;
 }
 .input-last {
     line-height: 48px;
     width: 50%;
-    padding: 15px;
-    font-size: 4rem;
 }
 .contact-email {
     color:#42526e ;
@@ -342,13 +337,9 @@ h2::before {
 }
 .my-email {
     line-height: 48px;
-    font-size: 4rem;
 }
 .contact-button {
     width: 129px;
-}
-.feed-back {
-    font-size: 4rem;
 }
 
 
