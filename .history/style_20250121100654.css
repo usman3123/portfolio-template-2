@@ -305,7 +305,7 @@ h2::before {
 .input {
     line-height: 48px;
     width: 50%;
-    padding: 10px;
+    padding: 15px;
     font-size: 30px;
 }
 .input-last {
@@ -316,7 +316,7 @@ h2::before {
 }
 .contact-email {
     color:#42526e ;
-    font-size:20px ;
+    font-size: 30px;
     line-height: 32px;
     width: 100%;
     text-align: center;
@@ -342,15 +342,13 @@ h2::before {
 }
 .my-email {
     line-height: 48px;
-    font-size: 30px;
-    padding: 15px;
+    font-size: 4rem;
 }
 .contact-button {
     width: 129px;
 }
 .feed-back {
-    font-size: 30px;
-    padding: 15px;
+    font-size: 4rem;
 }
 
 

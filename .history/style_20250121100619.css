@@ -305,14 +305,14 @@ h2::before {
 .input {
     line-height: 48px;
     width: 50%;
-    padding: 10px;
+    padding: 15px;
     font-size: 30px;
 }
 .input-last {
     line-height: 48px;
     width: 50%;
     padding: 15px;
-    font-size: 30px;
+    font-size: 4rem;
 }
 .contact-email {
     color:#42526e ;
@@ -342,15 +342,13 @@ h2::before {
 }
 .my-email {
     line-height: 48px;
-    font-size: 30px;
-    padding: 15px;
+    font-size: 4rem;
 }
 .contact-button {
     width: 129px;
 }
 .feed-back {
-    font-size: 30px;
-    padding: 15px;
+    font-size: 4rem;
 }
 
 
