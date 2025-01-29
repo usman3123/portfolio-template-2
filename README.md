@@ -61,3 +61,4 @@ Step 2: Locate the folder where you cloned your project to and open the index.ht
 👤 USMAN GHANI
 
 GitHub: @usman3123
+linkedin :https://www.linkedin.com/in/usman-ghani-7b802134a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCKwbFb%2BpQiC99%2F5Yu5dqYg%3D%3D
